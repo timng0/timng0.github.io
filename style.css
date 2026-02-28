@@ -1,12 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Work+Sans:400);
-@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400');
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond:400+700');
 
 
 body {
 	font-family: "Work Sans",serif;
 	padding: 1em;
 	margin: 0 auto;
-	width: 720px;
+	width: 45em;
     color: #083D77;
     background: #EBEBD3;
 }
