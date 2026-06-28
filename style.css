@@ -29,6 +29,10 @@ a {
     text-decoration: none;
     &:hover {
         color: #4BA3C3;
+        &:after {
+            color: #373F51;
+            content: "❦";
+        }
     }
 }
 
